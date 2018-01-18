@@ -1,0 +1,2 @@
+﻿http://www.marcdias.com.br/serie-webapi-parte-2-autenticacao-via-token/
+https://github.com/mdcarmo/WebApiClassic_To_WebApiOwin
